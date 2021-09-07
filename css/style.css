@@ -1,0 +1,95 @@
+.box-1{
+	background: #a9eaea;
+	width:250px;
+	padding: 40px;
+	margin: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 14px;
+	box-shadow: 0 0 14px 0 #37879c;
+}
+h1{
+	color: #ff0000a1;
+	font-weight:10px;
+	letter-spacing: 0;
+	text-transform: uppercase;
+	margin: 0;
+ }
+h2{
+	margin: 0;
+	font-size: 50px;
+	letter-spacing: -6px;
+	text-transform: uppercase;
+	color: #31a024;
+}
+.dark{
+	color:#459de89e;
+}
+.black{
+	color:#359df7 ;
+}
+.white{
+	color:#0067d2f5 ;
+}
+.green{
+	color: #b7b37d;
+}
+.blue{
+	color: #a59d48;
+}
+.gray{
+	color:#ab9520;
+}
+.lite{
+	color: #966e15;
+}
+.lime{
+	color:#a07c15;
+}
+.navy{
+	color:#a0810e;
+}
+.gold{
+	color:#1d8fc573;
+}
+.red{
+	color:#6390f5 ;
+}
+.yellow{
+	color:#639bef;
+}
+.seagreen{
+	color:#3838a2f2;
+}
+.hasib{
+	color:#889a25a8 ;
+}
+.hoque{
+	color:#87903f;
+}	
+.me{
+	color: #66841d;
+}
+.meta{
+	color:#507515;
+}
+ul{
+
+	margin:0 ;	
+	padding:0;
+	list-style-type: none;
+}
+li{
+	margin:4px;
+	font-size: 20px;
+	padding: 6px ;
+
+}
+a{
+	color:#ff0000d4;
+	text-decoration: none;
+	background-color:#ffffffc4;
+	padding: 4px 10px;
+	border-radius: 8px;
+	letter-spacing: 1px;
+}
